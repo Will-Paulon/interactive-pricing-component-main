@@ -33,79 +33,7 @@
 }
 
 
-body{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    background-color: hsl(230, 100%, 99%) ;
 
-
-}
-
-body{
-    min-height: 600px;
-    min-width: 50%;
-    background-image: url(images/bg-pattern.svg);
-    background-repeat: no-repeat;
-    background-size: 100%;
-    
-
-}
-
-
-
-.title{
-    
-    color: hsl(227, 35%, 25%);
-    margin-bottom: 120px;
-    font-size: 22px;
-    margin-top: 66px;
-}
-
-
-.title p{
-    font-size: 21px;
-    justify-content: center;
-    margin-left: 68px;
-    line-height: 53px;
-}
-
-img{
-    position:absolute;
-    top: 40px;
-    left: 945px;
-    width: 220px;
-    height: 22;
-
-}
-
-
-.card{
-    background-color: hsl(0, 0%, 100%);
-    padding: 8%;
-    margin: 2% 3%;
-    border-radius: 12px 12px 12px 12px;
-    box-shadow: 1px 1px 1px 1px;
-
-
-}
-
-
-
-.price{
-    display: flex;
-    justify-content: space-between;
-    margin-bottom: 50px;
-    font-size: 30px;
-  
-
-}
-
-.informations{
-    display: flex;
-
-}
 
 
 
