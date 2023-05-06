@@ -165,21 +165,11 @@ sans{
 }
 
 ul{
-list-style-type: '\2714\0020\0020';
-list-style-position: inside;
+list-style-image: url(/images/icon-check.svg)
 
 
 
 }
-
-.checkin{
-    width: 20px;
-    
-
-
-}
-
-
 
 
 
